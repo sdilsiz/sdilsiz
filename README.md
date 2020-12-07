@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 Hi I'm Salih. 
-- ⚡  I like fixing problems.  I like fixing problems/bugs.
+- ⚡ I like fixing problems/bugs.
 - 🔭 I’m currently working on taking freecodecamp certificates and looking for new opportunities
 - 🌱 I’m currently learning React,harmonica
 - 💬 Ask me about T-SQL
