@@ -12,11 +12,9 @@ Here are some ideas to get you started:
 -->
 
 
-Hi I'm Salih. 
-- ⚡ I like fixing problems/bugs.
-- 🔭 I’m currently working on taking freecodecamp certificates and looking for new opportunities
-- 🌱 I’m currently learning React,harmonica
-- 💬 Ask me about T-SQL
+Hi 🖖
+<!--
 - 
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salihdilsiz/)](https://www.linkedin.com/in/salihdilsiz/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@dilsizsalih)](https://medium.com/@dilsizsalih)
+-->
